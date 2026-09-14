@@ -10,9 +10,9 @@ Voice first. Virality second. No invented facts. No 2020 thread costumes.
 | --- | --- | --- |
 | [`viral-tweets`](skills/viral-tweets) | 1.3 | Tweets, threads, quote-tweets, "write like me" |
 | [`viral-articles`](skills/viral-articles) | 1.0 | X Articles, Substack, essays, teardowns, guides |
-| [`viral-replies`](skills/viral-replies) | 1.0 | Replies, quote-adds, "reply to this" |
-| [`x-profile`](skills/x-profile) | 1.0 | Bio, display name, pinned tweet |
-| [`content-batch`](skills/content-batch) | 1.0 | A week of posts from one topic cluster |
+| [`viral-replies`](skills/viral-replies) | 1.1 | Replies, quote-adds, "reply to this" |
+| [`x-profile`](skills/x-profile) | 1.1 | Bio, display name, pinned tweet |
+| [`content-batch`](skills/content-batch) | 1.1 | A week of posts from one topic cluster |
 
 They are siblings. Install one path at a time. Tweets do not load article refs. Replies do not draft originals. Articles hand a launch thread back to tweet rules. Batch hands each slot to the matching sibling.
 

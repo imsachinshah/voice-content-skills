@@ -2,6 +2,13 @@
 
 A week is a playlist, not a stack of the same template.
 
+## Contents
+
+- Default mixes
+- Rotation rules
+- Balance check
+- Cadence
+
 ## Default mixes
 
 ### news-beat (default)
@@ -23,27 +30,24 @@ Mon specific-result or bip-week · Tue reply under a user/pain post · Wed lived
 - At least one reply or quote so the account is not a broadcast tower.
 - If two slots share a hook, kill one.
 - Weekend posts only if the Voice Card already posts then.
+- Promotion / product slot: at most one. Overuse kills trust.
+- Do not repeat the same tweet template more than twice.
 
-## Cluster vs calendar
+## Balance check
 
-The cluster is the *subject*, not the headline copied seven times.
+Before shipping:
 
-Example cluster: "India tokenised bonds / T+1"
+- [ ] Two+ containers (single, reply, quote, thread)
+- [ ] Cluster is one subject, not seven headlines
+- [ ] Slot 4 skipped if 280 already held it
+- [ ] Every news slot has a source
+- [ ] Reply slot names a parent (handle + one-line) or says "find parent"
+- [ ] No GM / "building in public" filler to hit a count
 
-- Mon: REC number + mechanism
-- Tue: reply under a global RWA thread with the India number
-- Wed: why T+1 is the product
-- Thu: skip thread if Wed closed it
-- Fri: quote a US settlement take, add the local number
+## Cadence
 
-Same cluster. Five different jobs.
+Follow the Voice Card.
 
-## Pick
+This pack does not assume 2–4 posts/day. X allows frequency; the account may not. A thin-feed forced into seven slots is how weeks start looking like AI.
 
-```
-Mostly news originals?           news-beat
-They ship in public?             builder-beat
-They post rarely?                thin-feed
-They asked for 7 originals?      still mix containers; do not stack fact-mechanism
-The idea needs headings?         stop — that is viral-articles, not a week of tweets
-```
+If they ask for more than one original per day, still mix jobs. Two fact-mechanisms on the same number is a restatement.
